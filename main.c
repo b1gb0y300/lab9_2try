@@ -6,4 +6,5 @@ int main() {
 	scanf("%d", &a);
 	printf("¬ведите b: ");
 	scanf("%d", &b);
+	printf("—умма a + b равна:", a + b);
 }
